@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "type": "module",
-  "homepage": "https://1natalia9.github.io/vue-project",
+  "homepage": "https://1natalia9.github.io/vue-project/",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
